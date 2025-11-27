@@ -10,7 +10,7 @@ and data-driven market research.
 ## 🔍 Overview
 This portfolio highlights:
 - A full **systematic trading project** with feature engineering, ML models, and backtesting
-- - **Research notes** exploring market microstructure, factor behavior, and predictive signals  
+- **Research notes** exploring market microstructure, factor behavior, and predictive signals  
 - Several **small quantitative tasks** demonstrating data cleaning, preprocessing,
   event studies, and time-series analysis  
 - **Mathematical notes** used for quantitative interview preparation  
