@@ -9,11 +9,11 @@ and data-driven market research.
 
 ## 🔍 Overview
 This portfolio highlights:
-- A full **systematic trading project** with feature engineering, ML models, and backtesting  
+- A full **systematic trading project** with feature engineering, ML models, and backtesting
+- - **Research notes** exploring market microstructure, factor behavior, and predictive signals  
 - Several **small quantitative tasks** demonstrating data cleaning, preprocessing,
   event studies, and time-series analysis  
 - **Mathematical notes** used for quantitative interview preparation  
-- **Research notes** exploring market microstructure, factor behavior, and predictive signals  
 - **Infrastructure tools** (Docker/AWS) for reproducible research environments
 
 My goal is to build robust, interpretable, and statistically sound pipelines for
@@ -24,9 +24,9 @@ systematic investing and quantitative analysis.
 ## 📁 Repository Structure
 quant-portfolio/  
 ├─ main-project/ # Representative systematic strategy project  
+├─ research-notes/ # Event studies, microstructure studies, ML comparisons  
 ├─ small-tasks/ # Data cleaning, feature engineering, time-series tasks  
 ├─ math-notes/ # Probability, linear algebra, OLS, stationarity, etc.  
-├─ research-notes/ # Event studies, microstructure studies, ML comparisons  
 ├─ infrastructure/ # Docker/AWS setups for reproducible research  
 └─ README.md  
 
