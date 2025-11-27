@@ -22,13 +22,13 @@ systematic investing and quantitative analysis.
 ---
 
 ## 📁 Repository Structure
-quant-portfolio/
-├─ main-project/ # Representative systematic strategy project
-├─ small-tasks/ # Data cleaning, feature engineering, time-series tasks
-├─ math-notes/ # Probability, linear algebra, OLS, stationarity, etc.
-├─ research-notes/ # Event studies, microstructure studies, ML comparisons
-├─ infrastructure/ # Docker/AWS setups for reproducible research
-└─ README.md
+quant-portfolio/  
+├─ main-project/ # Representative systematic strategy project  
+├─ small-tasks/ # Data cleaning, feature engineering, time-series tasks  
+├─ math-notes/ # Probability, linear algebra, OLS, stationarity, etc.  
+├─ research-notes/ # Event studies, microstructure studies, ML comparisons  
+├─ infrastructure/ # Docker/AWS setups for reproducible research  
+└─ README.md  
 
 ---
 
@@ -53,7 +53,7 @@ quant-portfolio/
 ## 📞 Contact
 If you're reviewing this for recruiting purposes, feel free to reach out:
 
-**Email:** yamauchi@tyaveue.com
+**Email:** yamauchi@tyaveue.com  
 **LinkedIn:** 
 
 ---
